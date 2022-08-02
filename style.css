@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+#featured-property img{
+
+  align-items: center;
+}
+  #featured-property p{
+
+    align-items: center;
+  }
+
+header a{
+  color: grey;
+  padding: 10px;
+  align-items: center;
+}
+#details{
+  display: flex;
+  background-color: red;
+  float: left;
+
+  flex-wrap: wrap;
+
+  width: 100%;
+  padding: 10px 6px;
+
+  margin: 10px 0;
+}
+#details div{
+  width: 25%;
+  text-align: center;
+
+}
